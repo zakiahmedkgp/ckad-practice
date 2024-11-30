@@ -1,0 +1,16 @@
+- `0`: Jump to the beginning of the line.
+- `^`: Jump to the first non-blank character of the line.
+- `$`: Jump to the end of the line.
+- `H`: Jump to the top of the screen.
+- `M`: Jump to the middle of the screen.
+- `L`: Jump to the bottom of the screen.
+- `gg`: Go to the beginning of the file.
+- `G`: Go to the end of the file.
+- `dd`: Delete the entire current line.
+- `D`: Delete from the cursor to the end of the line.
+- `dw`: Delete from the cursor to the end of the current word.
+- `de`: Delete from the cursor to the end of the current/next word (including punctuation).
+- `d0`: Delete from the cursor to the beginning of the line.
+- `d^`: Delete from the cursor to the first non-blank character of the line.
+- `d$`: Delete from the cursor to the end of the line.
+
