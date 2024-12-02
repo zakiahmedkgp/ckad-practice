@@ -9,8 +9,9 @@
 - `dd`: Delete the entire current line.
 - `D`: Delete from the cursor to the end of the line.
 - `dw`: Delete from the cursor to the end of the current word.
-- `de`: Delete from the cursor to the end of the current/next word (including punctuation).
+- `de`: Delete from the cursor to the end of the current/next word
 - `d0`: Delete from the cursor to the beginning of the line.
 - `d^`: Delete from the cursor to the first non-blank character of the line.
 - `d$`: Delete from the cursor to the end of the line.
-
+- `o`: Add a new line below
+- `O`: Add a new line above
